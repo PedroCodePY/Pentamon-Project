@@ -1,0 +1,14 @@
+{ "columns":12,
+ "image":"..\/Image\/graphics\/graphics\/monsters\/Charmadillo.png",
+ "imageheight":384,
+ "imagewidth":768,
+ "margin":0,
+ "name":"Charmadillo",
+ "spacing":0,
+ "tilecount":72,
+ "tiledversion":"1.10.2",
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset",
+ "version":"1.10"
+}

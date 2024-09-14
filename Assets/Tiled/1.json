@@ -1,0 +1,14 @@
+{ "columns":2,
+ "image":"..\/Image\/graphics\/graphics\/characters\/blond.png",
+ "imageheight":512,
+ "imagewidth":512,
+ "margin":0,
+ "name":"blond",
+ "spacing":0,
+ "tilecount":4,
+ "tiledversion":"1.10.2",
+ "tileheight":256,
+ "tilewidth":256,
+ "type":"tileset",
+ "version":"1.10"
+}

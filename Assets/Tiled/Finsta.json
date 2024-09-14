@@ -1,0 +1,14 @@
+{ "columns":10,
+ "image":"..\/Image\/graphics\/graphics\/monsters\/Finsta.png",
+ "imageheight":80,
+ "imagewidth":160,
+ "margin":0,
+ "name":"Finsta",
+ "spacing":0,
+ "tilecount":1152,
+ "tiledversion":"1.10.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

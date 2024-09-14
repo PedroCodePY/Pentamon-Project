@@ -1,0 +1,114 @@
+{ "columns":0,
+ "grid":
+    {
+     "height":1,
+     "orientation":"orthogonal",
+     "width":1
+    },
+ "margin":0,
+ "name":"Pokemon.json",
+ "spacing":0,
+ "tilecount":16,
+ "tiledversion":"1.10.2",
+ "tileheight":32,
+ "tiles":[
+        {
+         "id":0,
+         "image":"..\/Image\/MPWSP01\/menu sprites\/menusprite3.png",
+         "imageheight":32,
+         "imagewidth":32
+        }, 
+        {
+         "id":1,
+         "image":"..\/Image\/MPWSP01\/menu sprites\/menusprite4.png",
+         "imageheight":32,
+         "imagewidth":32
+        }, 
+        {
+         "id":2,
+         "image":"..\/Image\/MPWSP01\/menu sprites\/menusprite5.png",
+         "imageheight":32,
+         "imagewidth":32
+        }, 
+        {
+         "id":3,
+         "image":"..\/Image\/MPWSP01\/menu sprites\/menusprite6.png",
+         "imageheight":32,
+         "imagewidth":32
+        }, 
+        {
+         "id":4,
+         "image":"..\/Image\/MPWSP01\/menu sprites\/menusprite7.png",
+         "imageheight":32,
+         "imagewidth":32
+        }, 
+        {
+         "id":5,
+         "image":"..\/Image\/MPWSP01\/menu sprites\/menusprite8.png",
+         "imageheight":32,
+         "imagewidth":32
+        }, 
+        {
+         "id":6,
+         "image":"..\/Image\/MPWSP01\/menu sprites\/menusprite9.png",
+         "imageheight":32,
+         "imagewidth":32
+        }, 
+        {
+         "id":7,
+         "image":"..\/Image\/MPWSP01\/menu sprites\/menusprite10.png",
+         "imageheight":32,
+         "imagewidth":32
+        }, 
+        {
+         "id":8,
+         "image":"..\/Image\/MPWSP01\/menu sprites\/menusprite11.png",
+         "imageheight":32,
+         "imagewidth":32
+        }, 
+        {
+         "id":9,
+         "image":"..\/Image\/MPWSP01\/menu sprites\/menusprite12.png",
+         "imageheight":32,
+         "imagewidth":32
+        }, 
+        {
+         "id":10,
+         "image":"..\/Image\/MPWSP01\/menu sprites\/menusprite13.png",
+         "imageheight":32,
+         "imagewidth":32
+        }, 
+        {
+         "id":11,
+         "image":"..\/Image\/MPWSP01\/menu sprites\/menusprite14.png",
+         "imageheight":32,
+         "imagewidth":32
+        }, 
+        {
+         "id":12,
+         "image":"..\/Image\/MPWSP01\/menu sprites\/menusprite15.png",
+         "imageheight":32,
+         "imagewidth":32
+        }, 
+        {
+         "id":13,
+         "image":"..\/Image\/MPWSP01\/menu sprites\/menusprite16.png",
+         "imageheight":32,
+         "imagewidth":32
+        }, 
+        {
+         "id":14,
+         "image":"..\/Image\/MPWSP01\/menu sprites\/menusprite1.png",
+         "imageheight":32,
+         "imagewidth":32
+        }, 
+        {
+         "id":15,
+         "image":"..\/Image\/MPWSP01\/menu sprites\/menusprite2.png",
+         "imageheight":32,
+         "imagewidth":32
+        }],
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}
